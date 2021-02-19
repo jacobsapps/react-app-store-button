@@ -4,7 +4,12 @@ An React component which allows you to create an iOS App Store or Google Play St
 
 * Using vector format, `svg` file , so don't worry about the resolution
 * Can specify your App Store button with customized `url`, `width` and `height`
-* Specify `"ios"` or `"android"`
+* Specify `"iosDark"`, `"iosLight"`, or `"android"`
+
+If you just want the images, you can get them here: 
+[iosDark](https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)
+[iosLight](https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/white/en-us.svg)
+[android](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)
 
 ## Usage
 

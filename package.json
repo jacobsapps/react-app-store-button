@@ -1,7 +1,7 @@
 {
-  "name": "react-mobile-store-button",
-  "version": "0.0.6",
-  "description": "A react component which allows you to place an iOS App Store or Google Play Store Download button!",
+  "name": "react-app-store-button",
+  "version": "1.0.0",
+  "description": "A react component which allows you to place an iOS App Store or Google Play Store Download button, and customise the color!",
   "main": "index.js",
   "engines": {
     "node": ">=6.5",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rizzomichaelg/react-mobile-store-button.git"
+    "url": "git+https://github.com/jacobsapps/react-app-store-button"
   },
   "keywords": [
     "App",
@@ -23,14 +23,17 @@
     "react component",
     "react",
     "react-component",
-    "Store"
+    "Store",
+    "colour",
+    "light",
+    "dark"
   ],
-  "author": "Mike Rizzo",
+  "author": "Jacob Bartlett",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rizzomichaelg/react-mobile-store-button/issues"
+    "url": "https://github.com/jacobsapps/react-app-store-button/issues"
   },
-  "homepage": "https://github.com/rizzomichaelg/react-mobile-store-button#readme",
+  "homepage": "https://github.com/jacobsapps/react-app-store-button#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.2.0"
